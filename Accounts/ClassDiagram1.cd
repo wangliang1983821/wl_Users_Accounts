@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="宋体" Size="9" />
+  <Class Name="LTP.Accounts.Bus.AccountsPrincipal" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Bus\AccountsPrincipal.cs</FileName>
+      <HashCode>gAAAAAAACAAAAAQAAQAAAAAIggAgUAAAEEAAAABAQAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LTP.Accounts.Bus.AccountsTool" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bus\AccountsTool.cs</FileName>
+      <HashCode>ACBAAgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Bus.PermissionCategories" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Bus\PermissionCategories.cs</FileName>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Bus.Permissions" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bus\Permissions.cs</FileName>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAEAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Bus.Role" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bus\Role.cs</FileName>
+      <HashCode>IAQAAiIAAAAiAAAAIAAgAAAAgAEAgEAEEIAAABABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Bus.SiteIdentity" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bus\SiteIdentity.cs</FileName>
+      <HashCode>AAAAAAAAACAABAAgCAQACAwgAAgAUAACAQAAAgEAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LTP.Accounts.Bus.User" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bus\User.cs</FileName>
+      <HashCode>AAYAAAAAECAAhAAgSIwECAiAAAkMGkgiTwsQokEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Bus.UserType" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bus\UserType.cs</FileName>
+      <HashCode>AAYgAAAAAAAAAAAAIAAAAAAAAAEAEAAAAAAAAAEAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Data.Permission" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Data\Permission.cs</FileName>
+      <HashCode>gIQAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAQAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Data.PermissionCategory" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Data\PermissionCategory.cs</FileName>
+      <HashCode>IIAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Data.Role" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Data\Role.cs</FileName>
+      <HashCode>AIQAAgAAAAAAAAAAAAAAAAAAgAEAAEAEAAAAAAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Data.User" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Data\User.cs</FileName>
+      <HashCode>gIQAAAAAEAAAAAAAyAAEAACAAEEIQEgACgEQgAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.Data.UserType" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Data\UserType.cs</FileName>
+      <HashCode>AAYAAAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAAAAEAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.DbHelperSQL" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DbHelperSQL.cs</FileName>
+      <HashCode>AAACBACAIAQAACgAAAAAEAKEEQAAAAgAAQAAAAEAIgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.DESEncrypt" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DESEncrypt.cs</FileName>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTP.Accounts.PubConstant" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PubConstant.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgCAAAAIAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
