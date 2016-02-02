@@ -1,0 +1,7 @@
+E:\Git\wl_Users_Accounts\wl_Accounts\bin\Debug\wl_Accounts.dll
+E:\Git\wl_Users_Accounts\wl_Accounts\bin\Debug\wl_Accounts.pdb
+E:\Git\wl_Users_Accounts\wl_Accounts\bin\Debug\Dapper.dll
+E:\Git\wl_Users_Accounts\wl_Accounts\bin\Debug\Dapper.pdb
+E:\Git\wl_Users_Accounts\wl_Accounts\bin\Debug\Dapper.xml
+E:\Git\wl_Users_Accounts\wl_Accounts\obj\Debug\wl_Accounts.dll
+E:\Git\wl_Users_Accounts\wl_Accounts\obj\Debug\wl_Accounts.pdb

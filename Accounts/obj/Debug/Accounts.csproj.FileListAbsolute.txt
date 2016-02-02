@@ -3,3 +3,8 @@ E:\资料\Accounts\bin\Debug\LTP.Accounts.pdb
 E:\资料\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
 E:\资料\Accounts\obj\Debug\LTP.Accounts.dll
 E:\资料\Accounts\obj\Debug\LTP.Accounts.pdb
+E:\Git\wl_Users_Accounts\Accounts\bin\Debug\LTP.Accounts.dll
+E:\Git\wl_Users_Accounts\Accounts\bin\Debug\LTP.Accounts.pdb
+E:\Git\wl_Users_Accounts\Accounts\obj\Debug\LTP.Accounts.dll
+E:\Git\wl_Users_Accounts\Accounts\obj\Debug\LTP.Accounts.pdb
+E:\Git\wl_Users_Accounts\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache

@@ -29,3 +29,6 @@ E:\Git\wl_Users_Accounts\Users\Users\bin\zh-Hans\System.Web.WebPages.Deployment.
 E:\Git\wl_Users_Accounts\Users\Users\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 E:\Git\wl_Users_Accounts\Users\Users\obj\Debug\Users.dll
 E:\Git\wl_Users_Accounts\Users\Users\obj\Debug\Users.pdb
+E:\Git\wl_Users_Accounts\Users\Users\obj\Debug\Users.csprojResolveAssemblyReference.cache
+E:\Git\wl_Users_Accounts\Users\Users\bin\LTP.Accounts.dll
+E:\Git\wl_Users_Accounts\Users\Users\bin\LTP.Accounts.pdb

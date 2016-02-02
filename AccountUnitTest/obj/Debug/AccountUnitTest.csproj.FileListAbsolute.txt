@@ -1,0 +1,11 @@
+E:\Git\wl_Users_Accounts\AccountUnitTest\bin\Debug\AccountUnitTest.dll
+E:\Git\wl_Users_Accounts\AccountUnitTest\bin\Debug\AccountUnitTest.pdb
+E:\Git\wl_Users_Accounts\AccountUnitTest\obj\Debug\AccountUnitTest.csprojResolveAssemblyReference.cache
+E:\Git\wl_Users_Accounts\AccountUnitTest\obj\Debug\AccountUnitTest.dll
+E:\Git\wl_Users_Accounts\AccountUnitTest\obj\Debug\AccountUnitTest.pdb
+E:\Git\wl_Users_Accounts\AccountUnitTest\bin\Debug\AccountUnitTest.dll.config
+E:\Git\wl_Users_Accounts\AccountUnitTest\bin\Debug\wl_Accounts.dll
+E:\Git\wl_Users_Accounts\AccountUnitTest\bin\Debug\Dapper.dll
+E:\Git\wl_Users_Accounts\AccountUnitTest\bin\Debug\wl_Accounts.pdb
+E:\Git\wl_Users_Accounts\AccountUnitTest\bin\Debug\Dapper.pdb
+E:\Git\wl_Users_Accounts\AccountUnitTest\bin\Debug\Dapper.xml
